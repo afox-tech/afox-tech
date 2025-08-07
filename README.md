@@ -55,7 +55,9 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, r
 - [Rafa](https://github.com/afox-tech/resumebuilder) — React.js + Framer Motion
 
 ### 📈 GitHub Stats
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=afox-tech&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afox-tech&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afox-tech&show_icons=true&theme=radical&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afox-tech&layout=compact&theme=radical)
 
 
 <!--
