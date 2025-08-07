@@ -2,10 +2,6 @@
 
 I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, responsive, and scalable web apps using **React.js**, **Next.js**, and **TypeScript**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afox-tech&label=Profile%20views&color=0e75b6&style=flat" alt="angelrodriguezdev" />
-</p>
-
 ---
 
 ### 🔧 Tech Stack
