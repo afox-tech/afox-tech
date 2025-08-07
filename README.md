@@ -35,9 +35,12 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, r
 ---
 
 ### 🚀 About Me
+- 🧑‍💻Full-time Code Whisperer @ Your Next Startup 
 - 💻 I love clean code, performance optimization, and elegant UIs
+- 🛠 I make UIs that don’t hurt people’s eyes (thanks Tailwind)  
 - 🌍 Remote-first developer (worked with global teams like Microsoft)
-- 🛠 Tech Stack: React • Next.js • TypeScript • Tailwind CSS • Node.js • Sanity CMS • Supabase
+- 🤓 I automate boring things so I can do more fun things
+- 🧊 Cool under pressure. Friendly under deadlines.
 - 🧠 Currently building: WebAssembly & AI-powered frontend workflows
 
 ### 🔨 My Recent Projects
