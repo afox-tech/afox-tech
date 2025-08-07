@@ -15,6 +15,11 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, r
 ### 📈 GitHub Stats
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=afox-tech&show_icons=true&theme=default)
 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+
 <!--
 **afox-tech/afox-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
