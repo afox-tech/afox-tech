@@ -40,8 +40,16 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, r
 - 🛠 I make UIs that don’t hurt people’s eyes (thanks Tailwind)  
 - 🌍 Remote-first developer (worked with global teams like Microsoft)
 - 🤓 I automate boring things so I can do more fun things
-- 🧊 Cool under pressure. Friendly under deadlines.
+- ❄️ Cool under pressure. Friendly under deadlines.
 - 🧠 Currently building: WebAssembly & AI-powered frontend workflows
+
+- ### ✨ Fun Facts
+
+- 🧪 Powered by mate, memes, and late-night commits
+- 🛡 Dark theme enthusiast (light mode? never met her)
+- 🔥 Hot-reloading addict — I break it just to feel alive again
+- 👻 I believe in clean code, messy hair, and sharp commits
+- 🤯 Once solved a production bug by accident — still not sure how
 
 ### 🔨 My Recent Projects
 - [Driven-web](https://github.com/afox-tech/driven-web-com) — Sanity CMS + Next.js + Styled Components
