@@ -52,7 +52,7 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, r
 
 ### 🔨 My Recent Projects
 - [Driven-web](https://github.com/afox-tech/driven-web-com) — Sanity CMS + Next.js + Styled Components
-- [Rafa](https://github.com/afox-tech/resumebuilder) — React.js + Framer Motion
+- [Rafa](https://github.com/afox-tech/rafa-web) — React.js + Framer Motion
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afox-tech&theme=radical)
