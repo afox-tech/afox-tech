@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Senior Frontend Engineer** with 10+ years of experience building fast, responsive, and scalable web apps using **React.js**, **Next.js**, and **TypeScript**.
+I'm a **Senior Full Stack Engineer** with 10+ years of experience building fast, responsive, and scalable web apps using **React.js**, **Next.js**, **TypeScript**, **Node.js** and **Python**.
 
 ---
 
